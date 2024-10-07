@@ -5,6 +5,6 @@
 		"start": "node ./main.js"
 	},
 	"dependencies": {
-		"avsc": "^5.7.7"
+		"avsc": "5.7.7"
 	}
 }
